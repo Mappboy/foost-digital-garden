@@ -34,23 +34,9 @@
               "icon": "lucide-file",
               "title": "Index"
             }
-          },
-          {
-            "id": "a05ecd200b36a2ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "POETRY/Poem Template.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Poem Template"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -209,15 +195,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a05ecd200b36a2ee",
+  "active": "9c06c673887f1d09",
   "lastOpenFiles": [
-    "BLOG/Blog Template.md",
-    "POETRY/Poem Template.md",
-    "RECIPES/Recipe Template.md",
+    "RECIPES/Untitled.md",
+    "RECIPES/Index.md",
+    "_templates/Recipe Template.md",
+    "_templates/Poem Template.md",
+    "_templates/Blog Template.md",
+    "_templates",
+    "assets",
     "RECIPES/Oren's Khummus.md",
     "FOOST Digital Garden.md",
     "README.md",
-    "RECIPES/Index.md",
     "2025-05-20.md",
     "Untitled.canvas",
     "BLOG",
