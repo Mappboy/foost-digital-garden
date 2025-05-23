@@ -1,0 +1,1 @@
+A way to share information and easily edit pages for our website. 
