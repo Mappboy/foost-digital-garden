@@ -49,8 +49,10 @@ Congrats. You made it. Clean up your mess and take a short break before the Zkhu
 - Zaatar (2 tea spoons)
 - Amba (1/2 tea spoons)
 - Olive oil (100ml) but the more the merrier.
+
+
 ## 🧠 Tips
-- > 
+
 > *“Make Khummus Not War”*
 >-  *Unknown*
 

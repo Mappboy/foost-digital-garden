@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "POETRY/Poem Template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Poem Template"
             }
           }
         ],
@@ -211,10 +211,13 @@
   },
   "active": "a05ecd200b36a2ee",
   "lastOpenFiles": [
+    "BLOG/Blog Template.md",
+    "POETRY/Poem Template.md",
+    "RECIPES/Recipe Template.md",
     "RECIPES/Oren's Khummus.md",
+    "FOOST Digital Garden.md",
     "README.md",
     "RECIPES/Index.md",
-    "FOOST Digital Garden.md",
     "2025-05-20.md",
     "Untitled.canvas",
     "BLOG",
