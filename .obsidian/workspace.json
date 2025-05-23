@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RECIPES/Oren's Khummus.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Oren's Khummus"
+              "title": "README"
             }
           }
         ],
@@ -211,9 +211,9 @@
   },
   "active": "a05ecd200b36a2ee",
   "lastOpenFiles": [
+    "RECIPES/Oren's Khummus.md",
     "README.md",
     "RECIPES/Index.md",
-    "RECIPES/Oren's Khummus.md",
     "FOOST Digital Garden.md",
     "2025-05-20.md",
     "Untitled.canvas",
