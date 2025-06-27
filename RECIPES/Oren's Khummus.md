@@ -1,4 +1,7 @@
 ---
+title: Oren's Khummus
+layout: recipes.njk
+permalink: "recipes/{{ title | slugify }}/index.html"
 aliases:
   - Khliff mountain Khummus
 source: "[Borcho](https://borcho.com/khliff-mountain-khummus/)"
