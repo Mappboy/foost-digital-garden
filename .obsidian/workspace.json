@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "FOOST Digital Garden"
             }
-          },
-          {
-            "id": "9c06c673887f1d09",
-            "type": "leaf",
-            "state": {
-              "type": "recipe-view",
-              "state": {
-                "file": "RECIPES/Oren's Khummus.md"
-              },
-              "icon": "chef-hat",
-              "title": "Oren's Khummus"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -155,13 +142,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RECIPES/Oren's Khummus.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Oren's Khummus"
+              "title": "Outline"
             }
           },
           {
@@ -175,7 +161,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -195,10 +181,10 @@
   },
   "active": "bc662003d7957f0d",
   "lastOpenFiles": [
+    "RECIPES/Oren's Khummus.md",
     "BLOG/TestBlog.md",
     "POETRY/Index.md",
     "RECIPES/Index.md",
-    "RECIPES/Oren's Khummus.md",
     "POETRY/Xanadu.md",
     "BLOG/Test BLog.md",
     "RECIPES/Untitled.md",
